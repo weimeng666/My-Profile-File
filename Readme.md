@@ -1,4 +1,5 @@
-## 自己在用的，都是fork的大佬的脚本规则
+## 自己在用的，都是fork的大佬的脚本规则 
+  [Tartarus2014-Loon conf](https://github.com/Tartarus2014/For-own-use/blob/master/Loon/Loon_sd_cn.conf)
 # 转载注明原出处
 ## 就这样子，头像镇楼
 <details>
