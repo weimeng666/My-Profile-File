@@ -1,6 +1,6 @@
 # *转载注明原出处[Tartarus2014-Loon conf](https://github.com/Tartarus2014/For-own-use/blob/master/Loon/Loon_sd_cn.conf)* 自己在用的，都是来自大佬的脚本规则
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=weimeng666&show_icons=true&hide=stars,prs&hide_title=true&theme=cobalt&hide_border=true">
+[![weimeng666's github stats](https://github-readme-stats.vercel.app/api?username=weimeng666)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>嘿嘿嘿</summary>
