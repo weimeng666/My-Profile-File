@@ -6,5 +6,3 @@
   <summary>嘿嘿嘿</summary>
   啥都没有，哈哈哈 
 </details>
-
-[![0sqCSs.md.jpg](https://s1.ax1x.com/2020/10/10/0sqCSs.md.jpg)](https://imgchr.com/i/0sqCSs)
