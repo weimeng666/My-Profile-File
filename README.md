@@ -3,5 +3,6 @@
 
 # **所用脚本未经安全认证，自用造成后果自负** #
 感谢大佬们的无私奉献
+
 [Orz-3](https://github.com/Orz-3)
-(Tartarus 2014)(https://github.com/Tartarus2014)
+[Tartarus 2014](https://github.com/Tartarus2014)
